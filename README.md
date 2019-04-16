@@ -1,4 +1,4 @@
-# vue-contextmenu
+# vue 右键菜单
 
 ## Project setup
 ```
